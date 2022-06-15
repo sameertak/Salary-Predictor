@@ -3,12 +3,6 @@ Made a Predictive Regressor Model which can predict the salary of a Software Dev
 
 You can find the working Web [here](https://share.streamlit.io/sameertak/salary-predictor/app.py).
 
-The Web App has two pages:-
-1) Prediction
-2) Explore
-
-Both can be accessed from the top left "[>]" option
-
 What's in the code?
 ----------------------------------
 First of all, I have downloaded the csv file from [Stack Overflow](https://insights.stackoverflow.com/survey)
